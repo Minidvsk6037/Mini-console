@@ -2,4 +2,4 @@
 W.I.P
 # reach me by discord for help 
 # mini.dvsk#0000
-# look at Update.txt
+# look at UPDATES.TXT
